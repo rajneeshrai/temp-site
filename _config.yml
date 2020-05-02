@@ -22,8 +22,8 @@ title: Rajneesh Rai
 email: rajneeshrai83@yahoo.in
 description: >- # this means to ignore newlines until "baseurl:"
  Welcome to my site.
-baseurl: "" #"/temp-site" # the subpath of your site, e.g. /blog
-url: "" # "https://rajneeshrai.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/temp-site" # the subpath of your site, e.g. /blog
+url: "https://rajneeshrai.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rajneeshrai83
 github_username:  rajneeshrai
 
