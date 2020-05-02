@@ -216,6 +216,11 @@
   margin-bottom: $spacing-unit;
 }
 
+.post-header-center {
+  margin-bottom: $spacing-unit;
+  text-align: center;
+}
+
 .post-title {
   @include relative-font-size(2.625);
   letter-spacing: -1px;
