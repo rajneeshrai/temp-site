@@ -4,13 +4,9 @@ title: About
 permalink: /about/
 headertitle: About Me
 ---
-<!-- <header class="post-header-center">
-    <h1 class="post-title"> About Me</h1>
-</header> -->
-
 <h1 class="post-title p-name" itemprop="name headline"><center>{{ page.headertitle }}</center></h1>
 
-Hey, I’m **`Rajneesh Rai`**. I am a full stack developer. Currently working as **`Tech Lead`** in a leading Indian MNC. You might know me, you probably don’t. I am a proud Indian, love to read history books. 
+Hey, I’m **`Rajneesh Rai`**. I am a full stack developer. Currently working as **`Tech Lead`** in a leading Indian MNC. I have rich experience(`9+ years`) in `web/cloud app` development in different domains. I am a proud Indian, love to read history books.
 
 *Exploring new technologies, sharing knowledge are the things that excites me every time.*
 
