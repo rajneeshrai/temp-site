@@ -11,6 +11,6 @@ This is an open source tool, supported by Microsoft. Micosoft uses this tool on 
 
 [Try .NET](https://try.dot.net/)
 
-![editor snapshot](../assets/2020-05-17-1.png "Try Dot Net")
+![editor snapshot](https://github.com/rajneeshrai/temp-site/raw/master/assets/2020-05-17-1.png "Try Dot Net")
 
 Try this. Cheers!!
