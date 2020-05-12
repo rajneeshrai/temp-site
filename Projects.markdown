@@ -2,8 +2,9 @@
 layout: page
 title: Projects
 permalink: /projects/
+headertitle: Stuff I've Done
 ---
-<h1 class="post-title p-name" itemprop="name headline"><center>{{ page.title }}</center></h1>
+<h1 class="post-title p-name" itemprop="name headline"><center>{{ page.headertitle }}</center></h1>
 
 In my whole professional career i have worked/assisted on uncounted projects. Following are the projects in reverse chronological order, i've been directly involved in design/development/management:
 

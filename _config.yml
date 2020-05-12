@@ -30,6 +30,8 @@ github_username: rajneeshrai
 linkedin_username: rajneeshrai
 stackoverflow_username: rajneesh-rai
 stackoverflow_userid: "1500829"
+show_excerpts: true
+# excerpt_separator: <!--more-->
 
 # Fields minima uses, but are not defaulted with jekyll new command
 # Author is default for post
